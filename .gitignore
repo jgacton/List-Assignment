@@ -1,0 +1,7 @@
+*
+!*.c
+!readme.txt
+!List-Challenge.pdf
+!Makefile
+!*.h
+!.gitignore
